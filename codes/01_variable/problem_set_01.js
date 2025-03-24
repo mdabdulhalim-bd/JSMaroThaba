@@ -1,10 +1,3 @@
-const weight = 38
-const price = 760
-const year = 2025
-const balance = 2000
-const age = 29
-
-
 // Practice Problem
 // 1
 const DOB = "01-01-2025"
@@ -21,4 +14,3 @@ const dailyReadingTime = 6;
 //7
 const total = 0 + 1 + 7 + 7 + 0 + 7 + 2 + 7+ 9 + 2 + 5;
 console.log(total)
-
